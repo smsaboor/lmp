@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858930103242",
+    "firebase_url": "https://lakhimpur-kheri-9307b.firebaseio.com",
+    "project_id": "lakhimpur-kheri-9307b",
+    "storage_bucket": "lakhimpur-kheri-9307b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858930103242:android:95122b618c31d55e7e4533",
+        "android_client_info": {
+          "package_name": "com.myzen.lakhimpur_kherii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858930103242-q42cnhgukm6rmd7tbhe3qvrgsc772e3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myzen.lakhimpur_kherii",
+            "certificate_hash": "0b81a9788c64bd5dbdc3811bdaec72e3762a93ac"
+          }
+        },
+        {
+          "client_id": "858930103242-i1fl4hdss0q1v4avn6ssb9d2iip6sh7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJPBAvBFZYEHVC2orWsYhBHdJaPPqAGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858930103242-i1fl4hdss0q1v4avn6ssb9d2iip6sh7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
